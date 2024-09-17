@@ -13,3 +13,4 @@ AttendanceSystemAdapter - An adapter for integrating the attendance system into 
 GradingSystemAdapter - An adapter for integrating the grading system into the school management application. It adapts the GradingSystem to the SchoolManagementApp interface, translating integrateSystem() to recordGrades().
 LibrarySystemAdapter - An adapter for integrating the library management system into the school management application. It adapts the LibrarySystem to the SchoolManagementApp interface, translating integrateSystem() to manageBooks().
 
+![OOP](https://github.com/user-attachments/assets/dfba6b97-4d81-4f60-9142-9d9848da4d0c)
